@@ -1,0 +1,5 @@
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\EntityClass\bin\Debug\EntityClass.dll
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\EntityClass\bin\Debug\EntityClass.pdb
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\EntityClass\obj\Debug\EntityClass.dll
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\EntityClass\obj\Debug\EntityClass.pdb
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\EntityClass\obj\Debug\EntityClass.csprojResolveAssemblyReference.cache

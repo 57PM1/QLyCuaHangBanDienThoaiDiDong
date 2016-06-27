@@ -1,0 +1,27 @@
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\Business\bin\Debug\Business.dll
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\Business\bin\Debug\Business.pdb
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\Business\bin\Debug\DataAccess.dll
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\Business\bin\Debug\EntityClass.dll
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\Business\bin\Debug\DataAccess.pdb
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\Business\bin\Debug\EntityClass.pdb
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\Business\obj\Debug\Business.dll
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\Business\obj\Debug\Business.pdb
+D:\DO AN CSDL\Mobile\Business\bin\Debug\Business.dll
+D:\DO AN CSDL\Mobile\Business\bin\Debug\Business.pdb
+D:\DO AN CSDL\Mobile\Business\bin\Debug\DataAccess.dll
+D:\DO AN CSDL\Mobile\Business\bin\Debug\EntityClass.dll
+D:\DO AN CSDL\Mobile\Business\bin\Debug\DataAccess.pdb
+D:\DO AN CSDL\Mobile\Business\bin\Debug\EntityClass.pdb
+D:\DO AN CSDL\Mobile\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\DO AN CSDL\Mobile\Business\obj\Debug\Business.dll
+D:\DO AN CSDL\Mobile\Business\obj\Debug\Business.pdb
+C:\Users\Administrator\Desktop\Mobile\Business\bin\Debug\Business.dll
+C:\Users\Administrator\Desktop\Mobile\Business\bin\Debug\Business.pdb
+C:\Users\Administrator\Desktop\Mobile\Business\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\Mobile\Business\bin\Debug\EntityClass.dll
+C:\Users\Administrator\Desktop\Mobile\Business\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\Mobile\Business\bin\Debug\EntityClass.pdb
+C:\Users\Administrator\Desktop\Mobile\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Mobile\Business\obj\Debug\Business.dll
+C:\Users\Administrator\Desktop\Mobile\Business\obj\Debug\Business.pdb

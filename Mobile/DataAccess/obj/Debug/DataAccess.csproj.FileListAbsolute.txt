@@ -1,0 +1,21 @@
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\DataAccess\bin\Debug\DataAccess.dll
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\DataAccess\bin\Debug\DataAccess.pdb
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\DataAccess\bin\Debug\EntityClass.dll
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\DataAccess\bin\Debug\EntityClass.pdb
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\DataAccess\obj\Debug\DataAccess.dll
+E:\NUCE\HKVI\Blog 2\DA CSDLNC\Mobile\DataAccess\obj\Debug\DataAccess.pdb
+D:\DO AN CSDL\Mobile\DataAccess\bin\Debug\DataAccess.dll
+D:\DO AN CSDL\Mobile\DataAccess\bin\Debug\DataAccess.pdb
+D:\DO AN CSDL\Mobile\DataAccess\bin\Debug\EntityClass.dll
+D:\DO AN CSDL\Mobile\DataAccess\bin\Debug\EntityClass.pdb
+D:\DO AN CSDL\Mobile\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\DO AN CSDL\Mobile\DataAccess\obj\Debug\DataAccess.dll
+D:\DO AN CSDL\Mobile\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\Mobile\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\Mobile\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\Mobile\DataAccess\bin\Debug\EntityClass.dll
+C:\Users\Administrator\Desktop\Mobile\DataAccess\bin\Debug\EntityClass.pdb
+C:\Users\Administrator\Desktop\Mobile\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Mobile\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\Mobile\DataAccess\obj\Debug\DataAccess.pdb
